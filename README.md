@@ -20,7 +20,7 @@ Each of the software package consists of:
 
 It is important to locate the directory path and the actual filename of these header files and libraries in your operating platform in order to properly setup the OpenGL programming environment.
 
-Setup can be found here in detailed:
+Setup can be found here in detail:
 https://www3.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html
 
 ## Instructions
