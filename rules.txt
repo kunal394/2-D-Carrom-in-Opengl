@@ -1,0 +1,22 @@
+Rules of the Game
+1. Game starts with initial score of 30.
+2. Score drops by 1 every second.
+3. Select color of the ball out of the given two colors.
+4. Pocketing a coin of selected color awards 10 points.
+5. Pocketing queen awards 15 points.
+6. Pocketing stryker deduces 5 points.
+7. Pocketing any other coin deduces 5 points.
+8. Pocket all the coins of selected color and the queen in minimum time to achieve highest score.
+
+Controls:
+
+Keyboard:
+1. Use 'a' or 'c' to decide the direction of stryker.
+2. Use 'up' and 'down' keys to adjust the intial power of the stryker hit.
+3. Use 'space' to launch the stryker in selected direction and with selected power.
+
+Mouse:
+1. Move mouse on the carrom board to decide the direction of stryker.
+2. Move mouse near to far from the stryker to decide the power of the hit.
+3. Drag the coin on the place line by holding down the right click of mouse.
+4. Click anywhere on the board above the place line to launch the stryker.
